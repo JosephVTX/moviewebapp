@@ -1,0 +1,98 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# vercel
+.vercel
+public/thumbnails/112/regular/medium.jpg
+public/thumbnails/112/regular/small.jpg
+public/thumbnails/1998/regular/medium.jpg
+public/thumbnails/1998/regular/small.jpg
+public/thumbnails/1998/trending/small.jpg
+public/thumbnails/asia-in-24-days/regular/medium.jpg
+public/thumbnails/asia-in-24-days/regular/small.jpg
+public/thumbnails/autosport-the-series/regular/medium.jpg
+public/thumbnails/autosport-the-series/regular/small.jpg
+public/thumbnails/below-echo/regular/medium.jpg
+public/thumbnails/below-echo/regular/small.jpg
+public/thumbnails/beyond-earth/regular/medium.jpg
+public/thumbnails/beyond-earth/regular/small.jpg
+public/thumbnails/beyond-earth/trending/small.jpg
+public/thumbnails/bottom-gear/regular/medium.jpg
+public/thumbnails/bottom-gear/regular/small.jpg
+public/thumbnails/bottom-gear/trending/small.jpg
+public/thumbnails/community-of-ours/regular/medium.jpg
+public/thumbnails/community-of-ours/regular/small.jpg
+public/thumbnails/dark-side-of-the-moon/regular/medium.jpg
+public/thumbnails/dark-side-of-the-moon/regular/small.jpg
+public/thumbnails/dark-side-of-the-moon/trending/small.jpg
+public/thumbnails/darker/regular/medium.jpg
+public/thumbnails/darker/regular/small.jpg
+public/thumbnails/dogs/regular/medium.jpg
+public/thumbnails/dogs/regular/small.jpg
+public/thumbnails/during-the-hunt/regular/medium.jpg
+public/thumbnails/during-the-hunt/regular/small.jpg
+public/thumbnails/earths-untouched/regular/medium.jpg
+public/thumbnails/earths-untouched/regular/small.jpg
+public/thumbnails/lone-heart/regular/medium.jpg
+public/thumbnails/lone-heart/regular/small.jpg
+public/thumbnails/mission-saturn/regular/medium.jpg
+public/thumbnails/mission-saturn/regular/small.jpg
+public/thumbnails/no-land-beyond/regular/medium.jpg
+public/thumbnails/no-land-beyond/regular/small.jpg
+public/thumbnails/off-the-track/regular/medium.jpg
+public/thumbnails/off-the-track/regular/small.jpg
+public/thumbnails/production-line/regular/medium.jpg
+public/thumbnails/production-line/regular/small.jpg
+public/thumbnails/relentless/regular/medium.jpg
+public/thumbnails/relentless/regular/small.jpg
+public/thumbnails/same-answer-2/regular/medium.jpg
+public/thumbnails/same-answer-2/regular/small.jpg
+public/thumbnails/the-diary/regular/medium.jpg
+public/thumbnails/the-diary/regular/small.jpg
+public/thumbnails/the-great-lands/regular/medium.jpg
+public/thumbnails/the-great-lands/regular/small.jpg
+public/thumbnails/the-heiress/regular/medium.jpg
+public/thumbnails/the-heiress/regular/small.jpg
+public/thumbnails/the-rockies/regular/medium.jpg
+public/thumbnails/the-rockies/regular/small.jpg
+public/thumbnails/the-tasty-tour/regular/medium.jpg
+public/thumbnails/the-tasty-tour/regular/small.jpg
+public/thumbnails/undiscovered-cities/regular/medium.jpg
+public/thumbnails/undiscovered-cities/regular/small.jpg
+public/thumbnails/undiscovered-cities/trending/small.jpg
+public/thumbnails/unresolved-cases/regular/medium.jpg
+public/thumbnails/unresolved-cases/regular/small.jpg
+public/thumbnails/van-life/regular/medium.jpg
+public/thumbnails/van-life/regular/small.jpg
+public/thumbnails/whispering-hill/regular/medium.jpg
+public/thumbnails/whispering-hill/regular/small.jpg
